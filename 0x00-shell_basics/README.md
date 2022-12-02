@@ -1,1 +1,1 @@
-A script that prints the type of the file named iamafile
+symbolic link to /bin/ls
