@@ -1,1 +1,1 @@
-a script that sets that the mode of the file hello the same as olleh's mode
+a script that that adds execute permission to all subdirectories of the current directory
