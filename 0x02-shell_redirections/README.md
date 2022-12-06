@@ -1,1 +1,1 @@
-Confused Smiley
+A script that displays all users and their home directories
